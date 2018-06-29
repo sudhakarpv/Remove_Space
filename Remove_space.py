@@ -1,3 +1,3 @@
 # Remove_Space
 u= input()
-print(' '.join(u.split()))
+print(''.join(u.split()))
